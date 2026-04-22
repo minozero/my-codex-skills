@@ -1,0 +1,6 @@
+interface:
+  display_name: "ETF Relative-Strength Scan"
+  short_description: "ETF-first daily scan for leadership, rotations, and trend shifts"
+  default_prompt: "Analyze this ETF table using an ETF-first, momentum-first framework. Focus on leadership, false rebounds vs real repair, strongest zone vs weakest zone, and explicit validation triggers."
+policy:
+  allow_implicit_invocation: true
